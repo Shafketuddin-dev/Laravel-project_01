@@ -1,0 +1,130 @@
+202320232023-1212-2424 0909:5757:5555Array
+(
+    [apiOperation] => INITIATE_CHECKOUT
+    [order.description] => OneSky monthly internet bill for user id: 156453
+    [order.id] => ebl-1703411874
+    [order.amount] => 1200
+    [order.currency] => BDT
+    [interaction.merchant.name] => OneSky Communications Limited.
+    [interaction.merchant.logo] => https://onesky.com.bd/assets/frontend/images/logo.png
+    [interaction.displayControl.billingAddress] => HIDE
+    [interaction.operation] => PURCHASE
+    [interaction.timeout] => 600
+    [interaction.timeoutUrl] => http://127.0.0.1:8000/online-payment/callback/timeout/ebl-1703411874
+    [interaction.cancelUrl] => http://127.0.0.1:8000/online-payment/callback/cancel/ebl-1703411874
+    [interaction.returnUrl] => http://127.0.0.1:8000/online-payment/callback/complete/ebl-1703411874
+)
+Array
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TEST40990002
+    [result] => SUCCESS
+    [session.id] => SESSION0002677256161L9403907E82
+    [session.updateStatus] => SUCCESS
+    [session.version] => 635dd62501
+    [successIndicator] => 47a5a5cebcd240df
+)
+202420242024-0202-0505 1111:5050:4343Array
+(
+    [apiOperation] => INITIATE_CHECKOUT
+    [order.description] => OneSky monthly internet bill for user id: 45976
+    [order.id] => ebl-1707133843
+    [order.amount] => 500
+    [order.currency] => BDT
+    [interaction.merchant.name] => OneSky Communications Limited.
+    [interaction.merchant.logo] => https://onesky.com.bd/assets/frontend/images/logo.png
+    [interaction.displayControl.billingAddress] => HIDE
+    [interaction.operation] => PURCHASE
+    [interaction.timeout] => 600
+    [interaction.timeoutUrl] => http://127.0.0.1:8000/online-payment/callback/timeout/ebl-1707133843
+    [interaction.cancelUrl] => http://127.0.0.1:8000/online-payment/callback/cancel/ebl-1707133843
+    [interaction.returnUrl] => http://127.0.0.1:8000/online-payment/callback/complete/ebl-1707133843
+)
+Array
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TEST40990002
+    [result] => SUCCESS
+    [session.id] => SESSION0002704528803H9806376K44
+    [session.updateStatus] => SUCCESS
+    [session.version] => 5707d30b01
+    [successIndicator] => 1b60db98c37040a0
+)
+202420242024-0202-1212 0303:1919:0909Array
+(
+    [apiOperation] => INITIATE_CHECKOUT
+    [order.description] => OneSky monthly internet bill for user id: 45976
+    [order.id] => ebl-1707707949
+    [order.amount] => 500
+    [order.currency] => BDT
+    [interaction.merchant.name] => OneSky Communications Limited.
+    [interaction.merchant.logo] => https://onesky.com.bd/assets/frontend/images/logo.png
+    [interaction.displayControl.billingAddress] => HIDE
+    [interaction.operation] => PURCHASE
+    [interaction.timeout] => 600
+    [interaction.timeoutUrl] => http://127.0.0.1:8000/online-payment/callback/timeout/ebl-1707707949
+    [interaction.cancelUrl] => http://127.0.0.1:8000/online-payment/callback/cancel/ebl-1707707949
+    [interaction.returnUrl] => http://127.0.0.1:8000/online-payment/callback/complete/ebl-1707707949
+)
+Array
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TEST40990002
+    [result] => SUCCESS
+    [session.id] => SESSION0002917344528G9909535F04
+    [session.updateStatus] => SUCCESS
+    [session.version] => 0087262901
+    [successIndicator] => c61f144ba4dc4061
+)
+202420242024-0202-1212 0303:2222:0202Array
+(
+    [apiOperation] => INITIATE_CHECKOUT
+    [order.description] => OneSky monthly internet bill for user id: 45976
+    [order.id] => ebl-1707708122
+    [order.amount] => 500
+    [order.currency] => BDT
+    [interaction.merchant.name] => OneSky Communications Limited.
+    [interaction.merchant.logo] => https://onesky.com.bd/assets/frontend/images/logo.png
+    [interaction.displayControl.billingAddress] => HIDE
+    [interaction.operation] => PURCHASE
+    [interaction.timeout] => 600
+    [interaction.timeoutUrl] => http://127.0.0.1:8000/online-payment/callback/timeout/ebl-1707708122
+    [interaction.cancelUrl] => http://127.0.0.1:8000/online-payment/callback/cancel/ebl-1707708122
+    [interaction.returnUrl] => http://127.0.0.1:8000/online-payment/callback/complete/ebl-1707708122
+)
+Array
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TEST40990002
+    [result] => SUCCESS
+    [session.id] => SESSION0002448137813F0779811I47
+    [session.updateStatus] => SUCCESS
+    [session.version] => a5eddfe401
+    [successIndicator] => 59047459c7d54e77
+)
+202420242024-0202-1414 0404:3838:5858Array
+(
+    [apiOperation] => INITIATE_CHECKOUT
+    [order.description] => OneSky monthly internet bill for user id: 45976
+    [order.id] => ebl-1707885538
+    [order.amount] => 500
+    [order.currency] => BDT
+    [interaction.merchant.name] => OneSky Communications Limited.
+    [interaction.merchant.logo] => https://onesky.com.bd/assets/frontend/images/logo.png
+    [interaction.displayControl.billingAddress] => HIDE
+    [interaction.operation] => PURCHASE
+    [interaction.timeout] => 600
+    [interaction.timeoutUrl] => http://127.0.0.1:8000/online-payment/callback/timeout/ebl-1707885538
+    [interaction.cancelUrl] => http://127.0.0.1:8000/online-payment/callback/cancel/ebl-1707885538
+    [interaction.returnUrl] => http://127.0.0.1:8000/online-payment/callback/complete/ebl-1707885538
+)
+Array
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TEST40990002
+    [result] => SUCCESS
+    [session.id] => SESSION0002602439515K02563859J0
+    [session.updateStatus] => SUCCESS
+    [session.version] => fc7bc31701
+    [successIndicator] => 2a54e388e573403b
+)

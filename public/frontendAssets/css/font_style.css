@@ -1,0 +1,15 @@
+/* kohinoor medium + sans  */
+@font-face {
+    font-family: kohinoor;
+    src: url(../fonts/kohinoor/kohinoor.ttf);
+ }
+/* kohinoor medium + sans  */
+
+ @font-face {
+    font-family: kohinoorPoppins;
+    src: url(../fonts/kohinoor/KohinoorPoppin-Regular.ttf);
+ }
+ @font-face {
+    font-family: kohinoorInter;
+    src: url(../fonts/kohinoor/KohinoorInter-Regular.ttf);
+ }

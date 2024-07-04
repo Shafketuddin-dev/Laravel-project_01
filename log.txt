@@ -1,0 +1,26 @@
+202320232023-1212-2323 0505:3636:2323Array
+(
+    [apiOperation] => INITIATE_CHECKOUT
+    [order.description] => OneSky monthly internet bill for user id: dozamu
+    [order.id] => ebl-1703352983
+    [order.amount] => 500
+    [order.currency] => BDT
+    [interaction.merchant.name] => OneSky Communications Limited.
+    [interaction.merchant.logo] => https://onesky.com.bd/assets/frontend/images/logo.png
+    [interaction.displayControl.billingAddress] => HIDE
+    [interaction.operation] => PURCHASE
+    [interaction.timeout] => 600
+    [interaction.timeoutUrl] => https://os.onesky.com.bd/online-payment/callback/timeout/ebl-1703352983
+    [interaction.cancelUrl] => https://os.onesky.com.bd/online-payment/callback/cancel/ebl-1703352983
+    [interaction.returnUrl] => https://os.onesky.com.bd/online-payment/callback/complete/ebl-1703352983
+)
+Array
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TEST40990002
+    [result] => SUCCESS
+    [session.id] => SESSION0002263173604K0456497H74
+    [session.updateStatus] => SUCCESS
+    [session.version] => f7fc541701
+    [successIndicator] => f0254cfe0c634793
+)
